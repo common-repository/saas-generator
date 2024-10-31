@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FrontEditPosts\n"
+"POT-Creation-Date: 2021-12-11 21:22+0100\n"
+"PO-Revision-Date: 2021-12-11 21:22+0100\n"
+"Last-Translator: \n"
+"Language-Team: ablancodev\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: saas-generator.php:30 saas-generator.php:31
+msgid "Saas settings"
+msgstr ""
+
+#: view/edit-post.php:43
+msgid "Title:"
+msgstr "Título:"
+
+#: view/edit-post.php:44
+msgid "Post title"
+msgstr "Título del anuncio"
+
+#: view/edit-post.php:49
+msgid "Description:"
+msgstr "Descripción:"
+
+#: view/edit-post.php:174
+msgid "Save"
+msgstr "Guardar"
+
+#: view/shortcodes.php:60
+msgid "Updated"
+msgstr "Actualizado"
+
+#: view/shortcodes.php:70
+msgid "New created"
+msgstr "Nuevo creado"
+
+#: view/shortcodes.php:147
+msgid "Add new"
+msgstr "Añadir nuevo"
+
+#: view/shortcodes.php:155
+msgid "Title"
+msgstr "Título"
+
+#: view/shortcodes.php:156
+msgid "Actions"
+msgstr "Acciones"
+
+#: view/shortcodes.php:166
+msgid "Edit"
+msgstr "Editar"
+
+#: view/shortcodes.php:167
+msgid "Delete"
+msgstr "Borrar"
+
+#~ msgid "Frontedit settings"
+#~ msgstr "Configuración de Frontedit"
